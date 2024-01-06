@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "uA4kDDvZ98sHmbTv0qHZKbr5Fc8",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EFW19owdWncgwjaGcwZE9DKQZ6U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GN09NgbTWiU"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-19T12:29:58Z",
+                "channelId": "UC3DNe5b3NYZ5ojre8YE1_xw",
+                "title": "눈 깜짝할 사이에 《30분 순삭》 되는, 현시점 &#39;레전드&#39; 애니메이션 한방에 몰아보기🔥",
+                "description": "이번 애니는 《철권:블러드라인》 몰아보기입니다 정말 다시 봐도, 액션 장면의 캐릭터들 기술 구현은 너무 잘 만들었네요   ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GN09NgbTWiU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GN09NgbTWiU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GN09NgbTWiU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "진솔한리뷰",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-19T12:29:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nDWOy-JTc-lRD-bgf0PLQ4N1iwg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rVP8n5-5t-U"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-23T05:06:53Z",
+                "channelId": "UC7gEmaQ-R7rgFncNT6OiGBg",
+                "title": "[무려 오스카 최우수 애니메이션 상을 받은 디즈니 픽사의 애니메이션 ]삶이 지치거나 힘들고 우울할 때 봐야 할 영화【영화리뷰/결말포함】",
+                "description": "영화리뷰#바오#결말포함#애니메이션#bao#단편영화 영상에 스포일러 및 결말이 포함되어 있으니 시청하실 때 주의해주시길 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rVP8n5-5t-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rVP8n5-5t-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rVP8n5-5t-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "핑크돌고래 미디어Pink dolphin Media",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-23T05:06:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1qSHkvO7dbzl2K4KppkhonIndPg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "77BvNnsrNSo"
+            },
+            "snippet": {
+                "publishedAt": "2018-01-13T10:00:02Z",
+                "channelId": "UC4qWDBnr9u2Ko7OGmELwv0A",
+                "title": "웃기는 애니메이션 만화 | Spookiz 프랭클린 식료품 점 악몽 | 어린이 만화",
+                "description": "여기에서 가장 좋아하는 만화를 더보십시오 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/77BvNnsrNSo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/77BvNnsrNSo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/77BvNnsrNSo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "WildBrain 한국어",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-01-13T10:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iGc2Zf5yOZ9SvHwNcOTer8hCiz8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0cyweu4yyiA"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-24T02:00:11Z",
+                "channelId": "UCKBt6VowYGmBpXFf3rVhaQA",
+                "title": "브레드이발소 | 크리스마스 1시간 모음!! | 애니메이션/만화/디저트/animation/cartoon/dessert",
+                "description": "크리스마스 1시간 모음!! -소시지의 크리스마스 -감자칩의 크리스마스 -치즈의 놀이터 -감자칩과 소시지 -브레드의 생일파티 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0cyweu4yyiA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0cyweu4yyiA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0cyweu4yyiA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "브레드이발소",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-24T02:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AbNQr5c3r_4VuI4qIGVOzb7lYkc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7kICdhgZdi8"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-26T07:00:00Z",
+                "channelId": "UCVvke1BdYuZc7DYIAyDSQHQ",
+                "title": "토닥토닥꼬모 | 꼬모의 가족 이야기 모음 | 연속보기 30분",
+                "description": "꼬모의 따뜻한 마음을 느낄 수 있는 에피소드 연속 보기 꼬모와 친구들이 따뜻한 마음을 가지며 성장해 가는 모습을 지켜봐요! ☆누리 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7kICdhgZdi8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7kICdhgZdi8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7kICdhgZdi8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "토닥토닥 꼬모 - 애니메이션, 동요, 놀이",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-26T07:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ok19upO_DeApS1ug223bBq8KLJo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E6B0HduvVtA"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-12T15:17:26Z",
+                "channelId": "UCcfz-8gGDYJfaRHYD7kkQpw",
+                "title": "겨울왕국? 이번엔 행운왕국!🍀애플이 작정하고 만든 &quot;압도적 퀄리티&quot; 졸귀존잼 애니메이션",
+                "description": "최신영화와 드라마, 다양한 컨텐츠 프로그램을 재밌고 빠르게 소개해드립니다 비지니스 문의 moviebooster@naver.com #카랑영화 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E6B0HduvVtA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E6B0HduvVtA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E6B0HduvVtA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "카랑Karang",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-12T15:17:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-8HoUpHuqxp-5EnbYYs0X5ezMXw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gxPAdh1YMVI"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-05T01:00:27Z",
+                "channelId": "UCpj-PeK3OoVJnVVrJiPjvbw",
+                "title": "흥행 수익만 1천억원!!! 계속해서 진화하는 중국 애니의 고전 SF 블록버스터 《신신방: 양전》",
+                "description": "영화리뷰 #애니리뷰 #중국애니 백사연기, 백사연기2(청사)의 제작진이 만들고 신신방 나타중생의 뒤를 잇는 신신방 시리즈 '신신방 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gxPAdh1YMVI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gxPAdh1YMVI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gxPAdh1YMVI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "주말의 띵화",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-05T01:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jHQG2uOX0AgEkhpAERFqOW_agGU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bwhAcwfeaPQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-16T08:14:19Z",
+                "channelId": "UC_RPr05YH1TBlQwxW2C7TVQ",
+                "title": "디즈니 픽사 영화를 뛰어넘는 초고퀄 판타지 액션 애니메이션!! [결말포함]",
+                "description": "안녕하세요. 시네마헌터입니다~ 이번에 소개해드릴 작품은 '케나 브릿지 오브 스피릿츠 (2021)' 입니다. 이 작품은 Ember Lab에서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bwhAcwfeaPQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bwhAcwfeaPQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bwhAcwfeaPQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "시네마헌터",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-16T08:14:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WNm7Y3VF9pFQbOs6ZuVK6Lexv9w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Zqaxpm14aVM"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-06T08:00:07Z",
+                "channelId": "UCPZiQMOFhcMuS749eZuE7Bg",
+                "title": "Snowball Monster is Here!!! #cartoon #animation #monster #funny #cute #animals #animation #shorts",
+                "description": "Official YouTube Channel: https://www.youtube.com/c/MuMuHugWorld Fellow us on: Website ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zqaxpm14aVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zqaxpm14aVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zqaxpm14aVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MuMuHug World",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-06T08:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QNFijVNLrxbuvX6_dD8GmRfPWRg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VRYmOU5-OyY"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-19T05:46:14Z",
+                "channelId": "UCdxuGQUbk-SeJlZxMtLGzAg",
+                "title": "🔥당뇨병 주의🔥 작화, 감성 개미친 핵달달 로맨스 애니메이션 [애니추천/쿠키있음🍪]",
+                "description": "애니이름 : 빙속성 남자와 쿨한 동료 여자 애니 보는 곳 : https://laftel.net/item/41254/?utm_campaign=na_review&utm_content=coolj ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VRYmOU5-OyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VRYmOU5-OyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VRYmOU5-OyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "나롱이네",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-19T05:46:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8Y862DOmw0I3pdLP3DtseYOeUTI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jNGb3_ZNW8w"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-23T07:43:58Z",
+                "channelId": "UC0m6ygdHkY8T8y3U3eyQoOQ",
+                "title": "인생에 때 묻은 우리들이 봐야 할 명작 애니메이션",
+                "description": "영화 제목 : 크리스마스 캐롤 개봉 연도 : 2009 장르 : 애니메이션 구매/대여 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jNGb3_ZNW8w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jNGb3_ZNW8w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jNGb3_ZNW8w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "무비체인",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-23T07:43:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z-sIZ72gCIf6iZsUcFXY_h3fGko",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-qLWK9pMRMc"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-14T07:00:01Z",
+                "channelId": "UCU8uafr_iROxRVI6c23Q_bA",
+                "title": "흔한남매 애니메이션 모아보기!!!ㅋㅋㅋㅋㅋ",
+                "description": "우리 냐하들 즐겁고 행복하고 신나는 겨울방학 보내자구요~~냐핫!!^^",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-qLWK9pMRMc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-qLWK9pMRMc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-qLWK9pMRMc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "흔한남매",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-14T07:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nJafapRczDLk4DkwfkOWrlt8MfY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V1lDSrIsd14"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-03T12:00:20Z",
+                "channelId": "UCNIwyVMzpPsO8Ong4IBeaQw",
+                "title": "WEDNESDAY ADDAMS FAMILY (Wednesday Animation)",
+                "description": "WEDNESDAY ADDAMS FAMILY (Wednesday Animation) #wednesday #animation #addamsfamily Support me on Patreon ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V1lDSrIsd14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V1lDSrIsd14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V1lDSrIsd14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FASH",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-03T12:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "R7vkakenQznn6clVOGgzT_JooJI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yJRexjT8Qvw"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-14T05:30:10Z",
+                "channelId": "UC2Vcz3eu1hO2zoyTpGvSWkw",
+                "title": "헐...이 애니 진짜 기대했었는데ㅠㅠ 충격적인 이유로 다시는 볼수없게 되어버린 레전드 애니메이션 TOP5",
+                "description": "재미있으셨다면 '구독하기'와 '좋아요' 한번씩 눌러주세요! 댓글은 저에게 매우 큰힘이 된답니다! :D 랭킹에게 주제 제안하기 ( or ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yJRexjT8Qvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yJRexjT8Qvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yJRexjT8Qvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "랭킹스쿨",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-14T05:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4gfHx7vCR9Z6Gpw20pHVUhpMEa0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3szpi-S2sYE"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-04T09:00:04Z",
+                "channelId": "UC2m30-5KvDn_p3jafegQZlA",
+                "title": "【𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭】 투니버스 고인물을 찾습니다 🔍 투니버스 레전드 애니 OST 모음 📺ㅣ𝗺𝗼𝘁𝗲𝗺𝗼𝘁𝗲",
+                "description": "어린이날 기념으로 듣자마자 집 나간 동심을 돌아오게 할 애니 OST를 모아보았어요! (동년배들 소리 질러~!~~!!!) * 저작권 문제로 인해 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3szpi-S2sYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3szpi-S2sYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3szpi-S2sYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "모트모트TV",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-04T09:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vHUD2T_SpBWC24FgwYqI01YxyvA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-fqxFZFfMVM"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-30T10:00:00Z",
+                "channelId": "UCbL1ccbdjSD2c4itQWAw5mg",
+                "title": "아저씨가 화나면 생기는 일 #감제이  #애니메이션 #더빙툰",
+                "description": "감제이 #애니메이션 #더빙툰 Jay Email:jayaj0717@naver.com. Jay Live:https://www.twitch.tv/9jayaj9 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-fqxFZFfMVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-fqxFZFfMVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-fqxFZFfMVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "감제이【싸이코드】",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-30T10:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RG1XhZwtkKD9eT2A61MfYqUrd7o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "moutRKiTXj0"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-28T16:00:32Z",
+                "channelId": "UCXHiPsk9KmoY34XAJtirSFA",
+                "title": "Bring it on! | Roblox Doors Animation",
+                "description": "Roblox​​​​​ #Doors #Shorts ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ Original by LightningSplash: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/moutRKiTXj0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/moutRKiTXj0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/moutRKiTXj0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jeny_Punker",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-28T16:00:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "nuPefQScbVYRXMmHlBxPzOoOZeU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZsXKoAHl8jQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-07-25T17:01:02Z",
+                "channelId": "UC2LBbVp5w0Kp4M7b7sRXTqw",
+                "title": "요즘 현우 [이터널 리턴 애니메이션] #shorts",
+                "description": "이터널리턴 #애니메이션 #현우 승용이와 파란 쥐는 게임 애니메이션을 만드는 2인조 채널입니다. 재밌게 감상해주세요.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZsXKoAHl8jQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZsXKoAHl8jQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZsXKoAHl8jQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "승용이와 파란 쥐 [SY&BM]",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-07-25T17:01:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Fkm4AVweMpsI-sk_5_G3KIhwnQc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7yg-wRCpzYk"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-24T02:39:02Z",
+                "channelId": "UCW2bjsLAbJGgWIye2e98H1w",
+                "title": "영어공부 애니메이션 딱 하나만 추천하라면 전 이거요!!",
+                "description": "이 영상에 나왔던 기초 필수 표현을 별도로 다룬 영상입니다. https://youtu.be/YezK91y3I-w 한 때 40만뷰를 자랑했던!! 자면서, 운동 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7yg-wRCpzYk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7yg-wRCpzYk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7yg-wRCpzYk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Papa English",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-24T02:39:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_BisPCQQ45lR6gCk3mlaHwaPtOM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pZexNYNAkMg"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-18T23:08:20Z",
+                "channelId": "UC4WKooFxqwPtJNr5X6y2-9w",
+                "title": "(😱잔혹 애니메이션) 기계들의 공격으로 멸망한 인간들!☠ 살아남기 위해 택한 방법은...?! *결말 포함",
+                "description": "9 #나인 #약대시네마 #애니메이션리뷰 구독과 좋아요는 영상 제작에 큰 힘이 됩니다 :) 비즈니스 문의 : ted920428@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pZexNYNAkMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pZexNYNAkMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pZexNYNAkMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "약대시네마",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-18T23:08:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "766LhiqG_nFGm7ffKBf3S1uvFBE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "gjQ6vJoiJPs"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-30T08:05:00Z",
+                "channelId": "UCkhHTiSx5OR4xGkSx36N8Sg",
+                "title": "[FMV] I&#39;m a Villain💔",
+                "description": "사랑은 어쩌면 악당일지도 몰라   #애니메이션 #FMV #빌런 --------------------------------------------------------------------- ▷ Mail ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gjQ6vJoiJPs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gjQ6vJoiJPs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gjQ6vJoiJPs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "강찬란 Chanlan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-30T08:05:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "gp7QuQAaNEwTJel3EoLVDJ4yzTA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CHE0Uvn_yB4"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-29T07:45:00Z",
+                "channelId": "UCvH22CTIo6UYsroNXe6CPtA",
+                "title": "- 컬투쇼 X 유투 - 레전드사연 애니메이션 1시간 모음편 4탄  [ BEST of BEST ]",
+                "description": "오늘 내일 하는 치과 00:05 선생님의 짝사랑은 결국... 02:46 대학mt 해프닝 04:54 명품가격전쟁 07:29 내 친구 나무늘보 08:54 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CHE0Uvn_yB4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CHE0Uvn_yB4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CHE0Uvn_yB4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YOUTOO - 유투 애니메이션 -",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-29T07:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "f7xOfxjtLPp8P6eVQW2DD04H6zo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "I7sXwN2N-X8"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-14T21:15:10Z",
+                "channelId": "UCrDbQrdiaqfX6AzbeGzpfOw",
+                "title": "Queen’s tragedy #animation #bee #sad",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I7sXwN2N-X8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I7sXwN2N-X8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I7sXwN2N-X8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Rare Doodle",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-14T21:15:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lHr24zsEN0zqbA6WmjUixGxxJz4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CL8q39EgrE8"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-29T08:45:11Z",
+                "channelId": "UCC6fYTZ9AIkqNy6zYEHVwow",
+                "title": "애니메이션 피아노 모음 [공부할 때 듣는 음악 / Piano Music for Study]",
+                "description": "악보, MP3 파일: https://flowmusic.kr Sheet Music, MP3 File: https://flowmusic.kr/english 1. 00:00 명탐정 코난 OST - Hello Mr. My ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CL8q39EgrE8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CL8q39EgrE8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CL8q39EgrE8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Flow Music",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-29T08:45:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wjzWxTukqwP64WgpY-EJbiXqmoI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZGFpCFUlFho"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-08T09:00:19Z",
+                "channelId": "UCK4WxhNsloFrA8iUaO92r5g",
+                "title": "화산귀환 OST &#39;매화&#39; 애니메이션",
+                "description": "화산귀환 웹툰 보러가기 https://webtoon.onelink.me/u70y/hwasan13 #화산귀환 '매화' 음원 들으러 가기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZGFpCFUlFho/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZGFpCFUlFho/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZGFpCFUlFho/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "네이버웹툰",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-08T09:00:19Z"
+            }
+        }
+    ]
+}

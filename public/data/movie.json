@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "nQNcVVGGC5XUBD0dDLC6RqKBbRQ",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Gk0VRD36VBKTPk1M-jWDN832tkg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-LUaWO5TWZ8"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-05T10:00:00Z",
+                "channelId": "UCBfW1VdGdqkFsw1NS2kC5zw",
+                "title": "📢디즈니플러스 지렸다..🔥역대급 누아르네ㄷㄷ🔥《최악의 악 몰아보기 》",
+                "description": "제목 : 최악의악 구독과 추천,공유는 영상제작에 큰 힘이 됩니다. 시청해주셔서 감사합니다. #최악의악,#디즈니플러스,#지창욱,",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-LUaWO5TWZ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-LUaWO5TWZ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-LUaWO5TWZ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김플릭스",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-05T10:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bRU88Gw3Rtb312nkVjfrEPR539Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5Da_Rnag31g"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-16T00:32:29Z",
+                "channelId": "UCguwAEyC1STmy5vqgvNsX9A",
+                "title": "12월 현재 1억 관객 돌파!! “전세계 1위”를 찍고 있는... 미친 설정의 띵작 영화. 그냥 보세요 [결말포함]",
+                "description": "영화리뷰 #영화추천 #넷플릭스 또................... 나와 버렸습니다. 넷플릭스에서 볼만한 신작 영화! 2023년 12월 현재 5천만 조회수를 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5Da_Rnag31g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5Da_Rnag31g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5Da_Rnag31g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "영화맛집",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-16T00:32:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "impeHA-dRrjLhTH1VVBx9RUl0ZI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "o6mn8LQCaG8"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-09T02:44:42Z",
+                "channelId": "UC3DNe5b3NYZ5ojre8YE1_xw",
+                "title": "넷플릭스 공개 당시, 무려 58개국 1위🔥 최근에 나온 생존 영화 중에, 가장 수작으로 평가받고 있는 《화제의 작품》",
+                "description": "이번 작품은 《노웨어》입니다 넷플릭스에서 시청하실 수 있죠 ✨비즈니스 문의✨: ljs535@nate.com #넷플릭스 #넷플릭스추천 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/o6mn8LQCaG8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/o6mn8LQCaG8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/o6mn8LQCaG8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "진솔한리뷰",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-09T02:44:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xQs7xNDjw0_C_oXhinVyai48Nsc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "33ICEGBLtnY"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-02T09:15:00Z",
+                "channelId": "UC6GOiYQCor5ki4IHDfFg-ug",
+                "title": "우리나라만 몰랐던 🔥넷플릭스 전세계 1위🔥 중인 신작 영화",
+                "description": "엘플릭스 #넷플릭스 #영화 #블러드앤골드 현재 넷플릭스 전세계 1위 중인 영화 '블러드 앤 골드' 지금 바로 넷플릭스에서 풀버전을 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/33ICEGBLtnY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/33ICEGBLtnY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/33ICEGBLtnY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "넷플릭스 뽕뽑기 [엘플릭스]",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-02T09:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MmL43pcNiyqNLdwL0bKGUZUGH7s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rjWZiRNiuFg"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-15T00:55:37Z",
+                "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+                "title": "《넷플릭스》에서 꼭 봐야하는 미친듯한 몰입감의 북유럽 감성 스릴러 [영화리뷰 결말포함]",
+                "description": "영화리뷰 #결말포함 #영화소개 #넷플릭스 #복수 #스릴러 #드라마 늑대의 살갗 아래, 2017 기타 문의 : ddongvideo@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rjWZiRNiuFg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rjWZiRNiuFg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rjWZiRNiuFg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "동네비디오방",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-15T00:55:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J_I3jAbJZYC-WnjZHGnOFXU4YEI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yO7NbXTuHBc"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-11T06:10:00Z",
+                "channelId": "UCRMA_Nb5VF-YoWApSVeXPVA",
+                "title": "(1시간) 특수부대 출신 공작원의 등장에도 지지 않는 이다희ㄷㄷ 너무 리얼해서 내 눈앞에서 싸우는 줄;; | 루카더비기닝",
+                "description": "드라마 또 보고 싶어서 만들었.zip #또보겠zip #루카더비기닝 #이다희 #걸크러쉬 #액션 0:00:00 부모님 실종 사건에 파고드는 구름 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yO7NbXTuHBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yO7NbXTuHBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yO7NbXTuHBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "디글 클래식 :Diggle Classic",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-11T06:10:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "IIeey_4XlDtvu9sAdiP-yksG6eE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qnIpUOIpLQU"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-12T01:02:47Z",
+                "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+                "title": "《넷플릭스》에서 꼭 봐야하는 미친듯한 화끈함의 《세계 랭킹 1위 요원들의 미래 SF 시리즈》의 레전드 액션 명작 Top.3 한방에 몰아보기 [영화리뷰 결말포함]",
+                "description": "영화리뷰 #결말포함 #영화소개 #넷플릭스 #특수부대 #참교육 #복수 #액션 #sf영화 #시리즈모음 1. 토탈 리콜 0:00 2. 서던 리치 : 소멸 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qnIpUOIpLQU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qnIpUOIpLQU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qnIpUOIpLQU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "동네비디오방",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-12T01:02:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wbqfhlkC2b-PojXdG4WN6RbUox0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "l3K70lbi4To"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-17T00:55:33Z",
+                "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+                "title": "《넷플릭스》에서 꼭 봐야하는 미친듯한 화끈함의 《힘을 숨긴 최강 남자.. 》 레전드 참교육 액션 [오행자객 시리즈, 한방에 몰아보기][영화리뷰 결말포함]",
+                "description": "영화리뷰 #결말포함 #영화소개 #넷플릭스 #특수요원 #액션 #능력자 #참교육 #넷플릭스 1. 오행자객 0:00 2. 벤전스 41:30 기타 문의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l3K70lbi4To/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l3K70lbi4To/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l3K70lbi4To/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "동네비디오방",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-17T00:55:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AsLRz1_DtBChxEe6uV3KTgpcbUk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_KmI9IN8mLI"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-12T10:00:21Z",
+                "channelId": "UC51WKJ_eAxP2A3mm9AIRwIw",
+                "title": "🔥IQ 190의 모든걸 가진 범죄 심리학자가 자기 스스로 교도소에 들어가 범죄자들을 참교육 시켜버리는 역대급 사이다 한국 드라마 1위!! 《크라임 퍼즐》 한 방에 몰아보기",
+                "description": "드라마몰아보기 #드라마몰아보기결말포함 #드라마 *구독과 좋아요 한번씩 부탁드립니다. 오늘 리뷰한 작품은 \"크라임퍼즐\"입니다 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_KmI9IN8mLI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_KmI9IN8mLI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_KmI9IN8mLI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "영화와 드라마 : Movie & Drama",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-12T10:00:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ahamRsZa9GgDqpbSJXBDWre8eIM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yzrHzuvbHGk"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-06T07:00:14Z",
+                "channelId": "UC9ernMKwl5amEz9232N2h7Q",
+                "title": "넷플릭스 Top5, 안보면 후회하는 몰입도 높은 영화 5편 추천!",
+                "description": "넷플릭스에는 약 5000편의 컨텐츠가 있습니다. 이렇게 다양한 볼거리가 있는데도 막상 영화 한편을 보려고하면 딱히 뭘 봐야할지 몰라 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yzrHzuvbHGk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yzrHzuvbHGk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yzrHzuvbHGk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "영화DJ_MovieDJ ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-06T07:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "S1BPoyyLqh1Oy6kXdFIUIIksP9E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ejEXjTw2lR4"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-23T07:08:34Z",
+                "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+                "title": "아직 못봤으면.... 이 넷플릭스 신작 영화는.. 꼭 보세요. 정말 재밌습니다 [결말포함]",
+                "description": "영화리뷰 #결말포함 #넷플릭스 넷플릭스 요즘 참 볼거 없었는데......... 2023년 최근에 정말 재미있게 본 영화 한 편을 추천합니다!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ejEXjTw2lR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ejEXjTw2lR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ejEXjTw2lR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Popcorn & Coke Review",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-23T07:08:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J-W42pJqxpjYkzBZDzlUqtVeBrA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3yKBoWB7OHM"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-28T08:00:03Z",
+                "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+                "title": "공개직후... 전세계 1위를 휩쓸며 현재까지 “6천만&quot; 조회수를 기록한 넷플릭스 영화.. 존잼입니다! [결말포함]",
+                "description": "영화리뷰 #결말포함 #넷플릭스 와......... 넷플릭스에 이런 영화가 숨어있었군요. 지금까지 전혀 모르고 있다가 발견한 넷플릭스 영화를 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3yKBoWB7OHM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3yKBoWB7OHM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3yKBoWB7OHM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Popcorn & Coke Review",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-28T08:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "svu4c_DSS4p48Q6pDx6WK41if_Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S0N-4Sxpf00"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-14T09:00:14Z",
+                "channelId": "UCMlSZaaKNUdTx7GgVuKetqg",
+                "title": "INTJ가 좋아할 미스터리 스릴러 영화 #런 #넷플릭스영화",
+                "description": "INTJ가 재밌게 볼 미스터리 스릴러 영화 '런' 장면입니다. 주인공들의 연기력과 쫄깃한 연출이 돋보이는 넷플릭스 영화 '런', 추천합니다 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S0N-4Sxpf00/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S0N-4Sxpf00/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S0N-4Sxpf00/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "탑무비",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-14T09:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kIcg6y5bpE7SQ59uJ696DRfeVpY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U0l4eGMQpig"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-12T04:00:10Z",
+                "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+                "title": "드디어............... 넷플릭스에 떴습니다. 그토록 기다리던 이 영화...",
+                "description": "넷플릭스#명작#결말포함 와.................... 정말 온 몸에 전율이 돋을 정도로 여운이 깊은 넷플릭스 영화 한 편 소개해 드리겠습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U0l4eGMQpig/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U0l4eGMQpig/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U0l4eGMQpig/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Popcorn & Coke Review",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-12T04:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BOdKxsSlNVE39vQ3lbjVFbMN9fg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7KK37aT06HA"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-16T09:00:04Z",
+                "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+                "title": "2023년 11월 현재 3000만뷰! 넷플릭스 전세계 &quot;1위&quot;를 달리고 있는 가장 핫한 영화!! [결말포함]",
+                "description": "영화리뷰 #결말포함 #시간순삭 2023년 11월 현재 전세계 1위를 핫하게 달리고 있는 영화를 추천합니다!!! 데이비드 핀처와 마이클 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7KK37aT06HA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7KK37aT06HA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7KK37aT06HA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Popcorn & Coke Review",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-16T09:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Uh9OkoVJveKcDKrncH_dYVu3Mb4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JxUmiolWaxA"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-22T00:54:24Z",
+                "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+                "title": "제작비 2600억.. 《넷플릭스》에서 꼭 봐야하는 미친듯한 화끈함의 《세계 랭킹 1위 탈옥의 신..》 레전드 범죄 액션 [영화리뷰 결말포함]",
+                "description": "영화리뷰 #결말포함 #영화소개 #범죄조직 #특수요원 #드웨인존슨 #라이언레이놀즈 #갤가돗 #FBI #참교육 #복수 #액션 #넷플릭스 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JxUmiolWaxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JxUmiolWaxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JxUmiolWaxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "동네비디오방",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-22T00:54:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Cc8K9kgQs9jeQ6YVGXec3AF5hPI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "b-D5vr27Wec"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-23T03:29:52Z",
+                "channelId": "UC9ernMKwl5amEz9232N2h7Q",
+                "title": "넷플릭스 Top5,  심장 쫄깃 서스펜스가 필요할 때 딱 보기 좋은 영화 5편 추천",
+                "description": "넷플릭스에는 약 5000편의 컨텐츠가 있습니다. 이렇게 다양한 볼거리가 있는데도 막상 영화 한편을 보려고하면 딱히 뭘 봐야할지 몰라 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b-D5vr27Wec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b-D5vr27Wec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b-D5vr27Wec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "영화DJ_MovieDJ ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-23T03:29:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Or17XefzQUpVcobTFljGYHxyoq8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dYea0e0KqnU"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-02T00:00:00Z",
+                "channelId": "UCiEEF51uRAeZeCo8CJFhGWw",
+                "title": "황야 | 공식 티저 예고편 | 넷플릭스",
+                "description": "세상은 멸망했고 우리에겐 사냥꾼이 필요하다” 2024년, 전 세계를 강타할 사냥꾼 마동석의 블록버스터 액션 넷플릭스 영화 ⟪황야⟫ 1 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dYea0e0KqnU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dYea0e0KqnU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dYea0e0KqnU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Netflix Korea 넷플릭스 코리아",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-02T00:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kVprWc3ZZF9782I0w39-ZoQZ8EI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xK8SWWhL6V4"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-04T13:13:33Z",
+                "channelId": "UCgblCXvd6s9o0ktvHYQD_tg",
+                "title": "[1시간 순삭] 천재 스나이퍼가 범죄 집단을 쓸어버리는 《넷플릭스》 올타임 1위의 미드 (시즌2 몰아보기)",
+                "description": "라이언필리피 #신시아아다이로빈슨 #오마엡스 #샨텐반샌튼 스티븐 헌터의 소설 '탄착점' 과 영화 '더블타겟'을 원작으로 한 미국의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xK8SWWhL6V4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xK8SWWhL6V4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xK8SWWhL6V4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "무비튜브",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-04T13:13:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "J0BihAbGDbzMsv2ys-eZw2w5wSc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5qAc5jQVIRs"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-24T10:00:06Z",
+                "channelId": "UCQtSkfvKq209UVGGqWwNEDg",
+                "title": "지금까지 이 영화만 기다렸다........... 넷플릭스 존잼 신작! [결말포함]",
+                "description": "드디어나온#넷플신작#리뷰 안녕하세요! 영화를 리뷰하는 팝콘&콜라 입니다! 오늘 소개해드릴 영화는 아주 흥미로운 소재를 다루고 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5qAc5jQVIRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5qAc5jQVIRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5qAc5jQVIRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Popcorn & Coke Review",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-24T10:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "eHPmwuXDGOrzBHHCjcc4JxwPFTI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aE4Goz-n59g"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-19T00:55:50Z",
+                "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+                "title": "《넷플릭스》에서 꼭 봐야하는 미친듯한 몰입감의 《랭킹 1위 역대급 SF 스릴러 시리즈》의 레전드 반전 명작 Top.3 한방에 몰아보기 [영화리뷰 결말포함]",
+                "description": "영화리뷰 #결말포함 #영화소개 #넷플릭스 #특수부대 #참교육 #복수 #액션 #sf영화 #생존영화 #멸망 #시리즈모음 1. 문 섀도우 0:00 2 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aE4Goz-n59g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aE4Goz-n59g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aE4Goz-n59g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "동네비디오방",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-19T00:55:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1PKWNchQ_7YPtbCFUv8uFdhQWKI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SOu0RDMSjSk"
+            },
+            "snippet": {
+                "publishedAt": "2023-10-28T11:00:31Z",
+                "channelId": "UC63OfFDn4I8AAhnqwr_bb1Q",
+                "title": "한국에서는 상상도 못할 이탈리아의 막장 불륜을 보여주는 넷플릭스 드라마 [영화리뷰 결말포함]",
+                "description": "안녕하세요^^ 원본 영상이 궁금하신 분은 넷플릭스에서 보실 수 있습니다 #넷플릭스 #영화리뷰 #결말포함 #드라마리뷰.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SOu0RDMSjSk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SOu0RDMSjSk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SOu0RDMSjSk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "무비톡",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-10-28T11:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FPp_OHb2fXblOFI1_lzed_O-JE8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BODRDmS6Rhg"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-04T00:49:42Z",
+                "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+                "title": "지구 멸망 3초 전.. 《넷플릭스》에서 꼭 봐야하는 미친듯한 몰입감의 레전드 미스터리 스릴러 [넷플릭스 레인 시즌 1~3편 통합본][영화리뷰 결말포함]",
+                "description": "영화리뷰 #결말포함 #영화소개 #범죄영화 #생존영화 #미스터리영화 #넷플릭스 레인 시즌1, 2018 레인 시즌2, 2019 레인 시즌3, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BODRDmS6Rhg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BODRDmS6Rhg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BODRDmS6Rhg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "동네비디오방",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-04T00:49:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZYQMa02rNZJurd0eQGOG1FqFsAk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lQZC0NYdLW8"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-26T00:54:41Z",
+                "channelId": "UCXvftM-43hGjGc1TA-8Y_IA",
+                "title": "힘을 숨긴 어머니를 건드려버린 양아치들..《넷플릭스》에서 꼭 봐야하는 미친듯한 화끈함의 레전드 참교육 스릴러 [영화리뷰 결말포함]",
+                "description": "영화리뷰 #결말포함 #영화소개 #넷플릭스 #드라마 #참교육 #복수 #액션 엔드 오브 더 로드, 2022 기타 문의 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lQZC0NYdLW8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lQZC0NYdLW8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lQZC0NYdLW8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "동네비디오방",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-26T00:54:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BmZsvcsJKYg0Yhs409tp9QKPWRU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jVDWoUusX_4"
+            },
+            "snippet": {
+                "publishedAt": "2023-12-30T01:30:25Z",
+                "channelId": "UCguwAEyC1STmy5vqgvNsX9A",
+                "title": "미쳤다............ 영화의 한계를 뛰어넘은... 2023년 올해 최고의 넷플릭스 &quot;명작&quot;",
+                "description": "넷플릭스#명작#결말포함 오늘은 영화의 한계를 뛰어넘은 넷플릭스 명작을 소개합니다. 엄청난 작품성과 더불어 탄탄한 스토리라인 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jVDWoUusX_4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jVDWoUusX_4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jVDWoUusX_4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "영화맛집",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-12-30T01:30:25Z"
+            }
+        }
+    ]
+}
