@@ -1,11 +1,16 @@
 import { Outlet } from "react-router-dom";
 import NavHeader from "./components/NavHeader/NavHeader";
+import { QueryClient, QueryClientProvider } from "react-query";
+
+const queryClient = new QueryClient();
 
 function App() {
   return (
     <>
       <NavHeader />
-      <Outlet />
+      <QueryClientProvider client={queryClient}>
+        <Outlet />
+      </QueryClientProvider>
     </>
   );
 }
