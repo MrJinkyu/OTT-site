@@ -2,16 +2,19 @@ import React from "react";
 import { useQuery } from "react-query";
 import styles from "./Videos.module.css";
 import VideoCard from "../../components/VideoCard/VideoCard";
-
+import FakeYoutubeClient from "../../apis/fakeYoutubeClient";
+import Youtube from "../../apis/youtube";
+// import YoutubeClient from "../../apis/youtubeClient";
 export default function Videos() {
   const {
     isLoading,
     error,
     data: videos,
   } = useQuery(["videos"], async () => {
-    return fetch("/data/movie.json")
-      .then((res) => res.json())
-      .then((data) => data.items);
+    const client = new FakeYoutubeClient();
+    // const client = new YoutubeClient();
+    const youtube = new Youtube(client);
+    return youtube.search("movie");
   });
   return (
     <>
@@ -20,7 +23,7 @@ export default function Videos() {
         {error && <p>error!</p>}
         {videos &&
           videos.map((video) => {
-            return <VideoCard key={video.id.videoId} video={video} />;
+            return <VideoCard key={video.id} video={video} />;
           })}
       </ul>
     </>
