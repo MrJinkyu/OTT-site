@@ -2,20 +2,15 @@ import React from "react";
 import { useQuery } from "react-query";
 import styles from "./Videos.module.css";
 import VideoCard from "../../components/VideoCard/VideoCard";
-import FakeYoutubeClient from "../../apis/fakeYoutubeClient";
-import Youtube from "../../apis/youtube";
-// import YoutubeClient from "../../apis/youtubeClient";
+import { useYoutubeApi } from "../../context/YoutubeApiContext";
+
 export default function Videos() {
+  const { youtube } = useYoutubeApi();
   const {
     isLoading,
     error,
     data: videos,
-  } = useQuery(["videos"], async () => {
-    const client = new FakeYoutubeClient();
-    // const client = new YoutubeClient();
-    const youtube = new Youtube(client);
-    return youtube.search("movie");
-  });
+  } = useQuery(["videos"], async () => youtube.search("movie"));
   return (
     <>
       <ul className={styles.videos}>
