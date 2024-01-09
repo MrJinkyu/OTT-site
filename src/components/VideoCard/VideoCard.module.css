@@ -2,6 +2,12 @@
   border-radius: 1rem;
   overflow: hidden;
   cursor: pointer;
+  border: 0.2rem solid transparent;
+  transition: all 150ms ease-out;
+}
+
+.card.active {
+  border-color: white;
 }
 
 .img {
