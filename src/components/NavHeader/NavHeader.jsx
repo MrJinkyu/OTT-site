@@ -5,6 +5,7 @@ import { RiGhostSmileFill } from "react-icons/ri";
 import { MdSportsVolleyball } from "react-icons/md";
 import { FaNewspaper } from "react-icons/fa6";
 import styles from "./NavHeader.module.css";
+import FilterButton from "../FilterButton/FilterButton";
 
 export default function NavHeader() {
   return (
@@ -13,22 +14,22 @@ export default function NavHeader() {
         <h1 className={styles.title}>OverTheTop</h1>
       </Link>
       <nav className={styles.menu}>
-        <button className={styles.item}>
+        <FilterButton value="movie">
           <FaVideo className={styles.icon} />
           <span className={styles.category}>영화</span>
-        </button>
-        <button className={styles.item}>
+        </FilterButton>
+        <FilterButton value="animation">
           <RiGhostSmileFill className={styles.icon} />
           <span className={styles.category}>애니메이션</span>
-        </button>
-        <button className={styles.item}>
+        </FilterButton>
+        <FilterButton value="sports">
           <MdSportsVolleyball className={styles.icon} />
           <span className={styles.category}>스포츠</span>
-        </button>
-        <button className={styles.item}>
+        </FilterButton>
+        <FilterButton value="news">
           <FaNewspaper className={styles.icon} />
           <span className={styles.category}>뉴스</span>
-        </button>
+        </FilterButton>
       </nav>
     </header>
   );
