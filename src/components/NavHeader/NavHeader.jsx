@@ -6,11 +6,17 @@ import { MdSportsVolleyball } from "react-icons/md";
 import { FaNewspaper } from "react-icons/fa6";
 import styles from "./NavHeader.module.css";
 import FilterButton from "../FilterButton/FilterButton";
+import { useFilter } from "../../context/FilterContext";
 
 export default function NavHeader() {
+  const { onFilterChange } = useFilter();
   return (
     <header className={styles.header}>
-      <Link to="/" className={styles.logo}>
+      <Link
+        to="/"
+        className={styles.logo}
+        onClick={() => onFilterChange("movie")}
+      >
         <h1 className={styles.title}>OverTheTop</h1>
       </Link>
       <nav className={styles.menu}>

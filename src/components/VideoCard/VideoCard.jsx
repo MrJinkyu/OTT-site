@@ -4,7 +4,7 @@ import styles from "./VideoCard.module.css";
 export default function VideoCard({ video, onChangeId, selectId }) {
   const { thumbnails } = video.snippet;
   return (
-    <li
+    <div
       className={`${styles.card} ${selectId === video.id && styles.active}`}
       onClick={() => onChangeId(video.id)}
     >
@@ -13,6 +13,6 @@ export default function VideoCard({ video, onChangeId, selectId }) {
         src={thumbnails.medium.url}
         alt="thumbnails_image"
       />
-    </li>
+    </div>
   );
 }
