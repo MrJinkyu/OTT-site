@@ -16,5 +16,5 @@
 }
 
 .img:hover {
-  filter: brightness(110%);
+  opacity: 0.8;
 }
