@@ -85,6 +85,12 @@
   background-color: var(--color-bg-body);
 }
 
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
 @media (min-width: 880px) {
   .title {
     font-size: 1.5rem;

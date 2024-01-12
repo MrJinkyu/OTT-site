@@ -1,7 +1,9 @@
 import React from "react";
 import styles from "./VideoCard.module.css";
+import { useFilter } from "../../context/FilterContext";
 
-export default function VideoCard({ video, onChangeId, selectId }) {
+export default function VideoCard({ video }) {
+  const { selectId, onChangeId } = useFilter();
   const { thumbnails } = video.snippet;
   return (
     <div

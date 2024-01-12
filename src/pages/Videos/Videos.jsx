@@ -15,23 +15,13 @@ export default function Videos() {
     error,
     data: videos,
   } = useQuery(["videos", filter], async () => youtube.search(filter));
-  const selectId = onSelectedId(videos);
-  const [id, setId] = useState(selectId);
+
   return (
     <section className={styles.container}>
-      <PlayBanner id={id} filter={filter} />
-      {videos && (
-        <VIdeoSlider videos={videos} onChangeId={setId} selectId={id} />
-      )}
+      <PlayBanner filter={filter} />
+      {videos && <VIdeoSlider videos={videos} />}
       {isLoading && <p>Loading...</p>}
       {error && <p>error!</p>}
     </section>
   );
-}
-
-function onSelectedId(videos) {
-  if (videos) {
-    return videos[0];
-  }
-  return "lQZC0NYdLW8";
 }

@@ -38,14 +38,7 @@ export default function VIdeoSlider({ videos, onChangeId, selectId }) {
       <h2 className={styles.title}>새로 올라온 콘텐츠</h2>
       <Slider {...settings}>
         {videos.map((video) => {
-          return (
-            <VideoCard
-              key={video.id}
-              video={video}
-              onChangeId={onChangeId}
-              selectId={selectId}
-            />
-          );
+          return <VideoCard key={video.id} video={video} />;
         })}
       </Slider>
     </div>
