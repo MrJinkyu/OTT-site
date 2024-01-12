@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "EtYXtN-BJl0FJ5nKtQn-JKIAPjU",
+  "etag": "_hO5p1Wcyr8bDBjFP1PA9UBOMM8",
   "nextPageToken": "CBkQAA",
   "regionCode": "KR",
   "pageInfo": {
@@ -44,40 +44,6 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "P7sNJLBq7owlwfFs8lbW293kEvU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RMEavlv9kqg"
-      },
-      "snippet": {
-        "publishedAt": "2023-12-29T20:38:56Z",
-        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-        "title": "2024년 스포츠, 이렇게 달라집니다 / YTN",
-        "description": "[앵커] 새해에는 스포츠에도 많은 변화가 있습니다. 프로야구에서 자동 볼 판정 시스템 등이 전격적으로 도입되고, 프로축구의 교체 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RMEavlv9kqg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RMEavlv9kqg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RMEavlv9kqg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": " YTN",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-12-29T20:38:56Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "poVf90B0S-w-VXl73S1giaqmjJc",
       "id": {
         "kind": "youtube#video",
@@ -108,74 +74,6 @@
         "channelTitle": "스브스뉴스 SUBUSUNEWS",
         "liveBroadcastContent": "none",
         "publishTime": "2022-12-26T09:40:37Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "bj2yD95AyGjjcnHsoYuKNKZuvL0",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "7mhdkTrXalo"
-      },
-      "snippet": {
-        "publishedAt": "2023-12-30T11:41:12Z",
-        "channelId": "UCk_Ymtay-8Epn0mB_37Htdg",
-        "title": "망연자실! 일본 전국민이 통곡하던 비극적인 사건 (전과정 편집) | 한국 축구의 기적과도 같은 대역전  드라마 | 도하의 비극 전경기",
-        "description": "1994년 미국 월드컵 축구 아시아 지역 최종 예선에 나선 한국와 일본, 북한 그리고 이란, 이라크, 사우디 아리비아 6개국이 치열한 대결 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/7mhdkTrXalo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/7mhdkTrXalo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/7mhdkTrXalo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "스포츠몽땅",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-12-30T11:41:12Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "mIEg6dGpuycZy_kDRAGlG6Y_3G8",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "HnyPy6waqaM"
-      },
-      "snippet": {
-        "publishedAt": "2023-12-31T21:08:53Z",
-        "channelId": "UCmGLKQgLtGhH4goyguKCFWA",
-        "title": "“손흥민 2024년 20분만에 12호골 폭발”토트넘 긴박한 대위기 순간! 손흥민이 구했다!평점8.1 MVP 미친 활약 그에게 열광한 진짜 이유 “본머스전 3:1 승리!”",
-        "description": "흰수염고래스포츠는 스포츠 전문인이 아닌 스포츠를 좋아하는 일반인이 대중의 눈높이로 소통하며 소식을 전달해드리는 채널입니다.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/HnyPy6waqaM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/HnyPy6waqaM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/HnyPy6waqaM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "흰수염고래스포츠",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-12-31T21:08:53Z"
       }
     },
     {
@@ -282,6 +180,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "bj2yD95AyGjjcnHsoYuKNKZuvL0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7mhdkTrXalo"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-30T11:41:12Z",
+        "channelId": "UCk_Ymtay-8Epn0mB_37Htdg",
+        "title": "망연자실! 일본 전국민이 통곡하던 비극적인 사건 (전과정 편집) | 한국 축구의 기적과도 같은 대역전  드라마 | 도하의 비극 전경기",
+        "description": "1994년 미국 월드컵 축구 아시아 지역 최종 예선에 나선 한국와 일본, 북한 그리고 이란, 이라크, 사우디 아리비아 6개국이 치열한 대결 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7mhdkTrXalo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7mhdkTrXalo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7mhdkTrXalo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스포츠몽땅",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-12-30T11:41:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "yWOagsrTtkULjyBlP9sU77fclcQ",
       "id": {
         "kind": "youtube#video",
@@ -312,74 +244,6 @@
         "channelTitle": "스포츠몽땅",
         "liveBroadcastContent": "none",
         "publishTime": "2022-05-27T12:00:40Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "ugLV61XKhjRY9n5reB95k3AaxYo",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "kEVwf8T8ROU"
-      },
-      "snippet": {
-        "publishedAt": "2023-11-04T02:00:31Z",
-        "channelId": "UCoxT1kQSLq564FwpK473w-g",
-        "title": "&#39;일등주의&#39; 내세우던 스포츠 강자 삼성은 어쩌다 하위권에 머물게 됐을까?｜크랩",
-        "description": "크랩 #삼성스포츠 #프로스포츠 #kbs뉴스 삼성 스포츠단이 '삼성왕조'라 불릴 만큼 화려한 전성기를 누렸던 때가 있습니다.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/kEVwf8T8ROU/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/kEVwf8T8ROU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/kEVwf8T8ROU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "크랩 KLAB",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-11-04T02:00:31Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "MvwpVX6MRhHJm5rxfzDZhdJ0KQU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "a_0lgcq-QOM"
-      },
-      "snippet": {
-        "publishedAt": "2024-01-08T02:25:34Z",
-        "channelId": "UCmGLKQgLtGhH4goyguKCFWA",
-        "title": "“아스날 충격적 탈락! 100번 슈팅 4골 대반전”손흥민급 없는 팀은 무조건 허접 확인! 리버풀이1.5군으로도 승리하게 된 결정적인 이유“토트넘 공격진은 양반이었다!”",
-        "description": "흰수염고래스포츠는 스포츠 전문인이 아닌 스포츠를 좋아하는 일반인이 대중의 눈높이로 소통하며 소식을 전달해드리는 채널입니다.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/a_0lgcq-QOM/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/a_0lgcq-QOM/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/a_0lgcq-QOM/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "흰수염고래스포츠",
-        "liveBroadcastContent": "none",
-        "publishTime": "2024-01-08T02:25:34Z"
       }
     },
     {
@@ -418,36 +282,36 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CYhnToOlLOs8y2P_ApAqDsujCSc",
+      "etag": "0QsH1NeBIHReVadrLsynEEwa2J4",
       "id": {
         "kind": "youtube#video",
-        "videoId": "fii4pvnAfG8"
+        "videoId": "skHhwI2LaKs"
       },
       "snippet": {
-        "publishedAt": "2023-06-11T09:30:10Z",
-        "channelId": "UCyN59o27F6HCnDc0Ic1NbZw",
-        "title": "한국 역사상 가장 위대한 스포츠 선수 Top10",
-        "description": "한국 역사상 가장 위대한 스포츠 선수 10인 구독과 좋아요, thanks는 영상을 만드는데 힘이 됩니다.",
+        "publishedAt": "2024-01-05T02:30:31Z",
+        "channelId": "UCk_Ymtay-8Epn0mB_37Htdg",
+        "title": "맨시티 과르디올라 최악의 망작 &amp; 손흥민 인생 최고의 경기 | UEFA 역대급 챔피언스 리그의 극적인 경기들 (전과정 편집) | 토트넘 역사상, 가장 감동적이었던 순간들",
+        "description": "UEFA 역사상, 가장 극적이고 감동적이었던 챔피언스 리그 경기들 2018-2019 시즌 챔피언스 리그 결승에 진출에 토트넘 경기들 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/fii4pvnAfG8/default.jpg",
+            "url": "https://i.ytimg.com/vi/skHhwI2LaKs/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/fii4pvnAfG8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/skHhwI2LaKs/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/fii4pvnAfG8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/skHhwI2LaKs/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Bong Nam Brother",
+        "channelTitle": "스포츠몽땅",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-06-11T09:30:10Z"
+        "publishTime": "2024-01-05T02:30:31Z"
       }
     },
     {
@@ -482,6 +346,40 @@
         "channelTitle": "스포츠머그 - SPORTSMUG",
         "liveBroadcastContent": "none",
         "publishTime": "2023-06-19T09:39:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CYhnToOlLOs8y2P_ApAqDsujCSc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fii4pvnAfG8"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-11T09:30:10Z",
+        "channelId": "UCyN59o27F6HCnDc0Ic1NbZw",
+        "title": "한국 역사상 가장 위대한 스포츠 선수 Top10",
+        "description": "한국 역사상 가장 위대한 스포츠 선수 10인 구독과 좋아요, thanks는 영상을 만드는데 힘이 됩니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fii4pvnAfG8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fii4pvnAfG8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fii4pvnAfG8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bong Nam Brother",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-11T09:30:10Z"
       }
     },
     {
@@ -588,74 +486,6 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "zasPLgKdjX-OYABRDcKXD0CoPXU",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "bKEigzj2kwg"
-      },
-      "snippet": {
-        "publishedAt": "2023-01-26T10:13:53Z",
-        "channelId": "UCofhk-kQ9wVzDQ4CkRf1_VA",
-        "title": "스포츠 역사상 가장 천재적인 플레이를 보여준 선수들",
-        "description": "오늘은 천재적인 감각과 발군의 센스가 돋보이는 최고의 명장면들만 모아서 소개해드립니다 #스포츠 #스포츠명장면 [Video Source ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/bKEigzj2kwg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/bKEigzj2kwg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/bKEigzj2kwg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "두통약",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-01-26T10:13:53Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "bm_kRCSqqt1-_NhzYdGUP8qre6c",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "aFI7iv-oJ9Y"
-      },
-      "snippet": {
-        "publishedAt": "2019-09-17T02:01:59Z",
-        "channelId": "UCDIB1DOwPPe58M2fHPyVVDA",
-        "title": "[스포츠탑골공원]농구 싸움왕 김성욱...야인시대 따로없네",
-        "description": "80~90년대 농구대잔치에 '주먹왕'이 있었으니...그 이름 노랑머리 김성욱! KBS 아카이브 대공개.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aFI7iv-oJ9Y/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aFI7iv-oJ9Y/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aFI7iv-oJ9Y/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "KBS 스포츠",
-        "liveBroadcastContent": "none",
-        "publishTime": "2019-09-17T02:01:59Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "CNPQkSyZBB1v86CcgAuYdIQm7eU",
       "id": {
         "kind": "youtube#video",
@@ -686,40 +516,6 @@
         "channelTitle": "사실들흥미로운",
         "liveBroadcastContent": "none",
         "publishTime": "2022-07-16T06:00:09Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "7KZGicGed3XHTlDZnMxCBCzTtVE",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "RAMmLllvZlo"
-      },
-      "snippet": {
-        "publishedAt": "2020-07-22T09:14:44Z",
-        "channelId": "UCKULCxQkZRqn8LBjpMCMMAg",
-        "title": "세계에서 가장 위험한 스포츠 기네스 TOP9",
-        "description": "비지엠 정보 https://youtu.be/7eh573FBXmk 유튜브 자막을 켜주세요! 03:09 스키점프 253.5m 08:41 프리솔로 3시간 56분 더빙 실수 ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/RAMmLllvZlo/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/RAMmLllvZlo/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/RAMmLllvZlo/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "비오는날",
-        "liveBroadcastContent": "none",
-        "publishTime": "2020-07-22T09:14:44Z"
       }
     },
     {
@@ -758,6 +554,40 @@
     },
     {
       "kind": "youtube#searchResult",
+      "etag": "bm_kRCSqqt1-_NhzYdGUP8qre6c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aFI7iv-oJ9Y"
+      },
+      "snippet": {
+        "publishedAt": "2019-09-17T02:01:59Z",
+        "channelId": "UCDIB1DOwPPe58M2fHPyVVDA",
+        "title": "[스포츠탑골공원]농구 싸움왕 김성욱...야인시대 따로없네",
+        "description": "80~90년대 농구대잔치에 '주먹왕'이 있었으니...그 이름 노랑머리 김성욱! KBS 아카이브 대공개.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aFI7iv-oJ9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aFI7iv-oJ9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aFI7iv-oJ9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS 스포츠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-17T02:01:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
       "etag": "bjQ3bSGNG3MmtV_HheJ5h8odGVk",
       "id": {
         "kind": "youtube#video",
@@ -788,6 +618,108 @@
         "channelTitle": "Miss테리의 미스테리",
         "liveBroadcastContent": "none",
         "publishTime": "2023-04-09T10:00:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7KZGicGed3XHTlDZnMxCBCzTtVE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RAMmLllvZlo"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-22T09:14:44Z",
+        "channelId": "UCKULCxQkZRqn8LBjpMCMMAg",
+        "title": "세계에서 가장 위험한 스포츠 기네스 TOP9",
+        "description": "비지엠 정보 https://youtu.be/7eh573FBXmk 유튜브 자막을 켜주세요! 03:09 스키점프 253.5m 08:41 프리솔로 3시간 56분 더빙 실수 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RAMmLllvZlo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RAMmLllvZlo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RAMmLllvZlo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "비오는날",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-22T09:14:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B54MxW4uIUdyWYyfyLuaq9iYYGo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WzxIUvWYObY"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-24T10:22:31Z",
+        "channelId": "UCofhk-kQ9wVzDQ4CkRf1_VA",
+        "title": "스포츠가 만들어낸 18가지 황당한 순간들",
+        "description": "스포츠는 언제나 생방송으로 진행되기 때문에 가끔씩 모두를 당황하게 만드는 황당한 순간들이 연출되기도 합니다. 오늘은 예능보다 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WzxIUvWYObY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WzxIUvWYObY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WzxIUvWYObY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "두통약",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-24T10:22:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CQD1vGsVyPFtcii35DrpUVnmiAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p7me5VqPpCw"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-09T10:40:11Z",
+        "channelId": "UCiBr0bK06imaMbLc8sAEz0A",
+        "title": "[2022 추석특집 아이돌스타 선수권대회 댄스스포츠 - 여자부] NMIXX 설윤의 룸바 + 자이브! 아기 사슴의 우아한 몸짓, MBC 220909 방송",
+        "description": "More clips are available iMBC https://program.imbc.com/2022fullmoonidol WAVVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p7me5VqPpCw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p7me5VqPpCw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p7me5VqPpCw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCentertainment",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-09T10:40:11Z"
       }
     },
     {
@@ -826,36 +758,104 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "B54MxW4uIUdyWYyfyLuaq9iYYGo",
+      "etag": "kkoBfqMy6fvzc9tMXaRF-RHlpKM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "WzxIUvWYObY"
+        "videoId": "q3HUd_WTkkc"
       },
       "snippet": {
-        "publishedAt": "2023-04-24T10:22:31Z",
-        "channelId": "UCofhk-kQ9wVzDQ4CkRf1_VA",
-        "title": "스포츠가 만들어낸 18가지 황당한 순간들",
-        "description": "스포츠는 언제나 생방송으로 진행되기 때문에 가끔씩 모두를 당황하게 만드는 황당한 순간들이 연출되기도 합니다. 오늘은 예능보다 ...",
+        "publishedAt": "2023-03-04T11:00:28Z",
+        "channelId": "UCTvi2BjajINRhv-8p7gCGoA",
+        "title": "전세계사람들을 놀라게한 스포츠의 순간",
+        "description": "안녕하세요? Miss테리입니다. 때때로 우리는 스포츠 경기에서 잊을 수 없는 순간들을 보게 됩니다. 전세계 사람들을 놀라게 한 스포츠 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WzxIUvWYObY/default.jpg",
+            "url": "https://i.ytimg.com/vi/q3HUd_WTkkc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WzxIUvWYObY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/q3HUd_WTkkc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WzxIUvWYObY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/q3HUd_WTkkc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "두통약",
+        "channelTitle": "Miss테리의 미스테리",
         "liveBroadcastContent": "none",
-        "publishTime": "2023-04-24T10:22:31Z"
+        "publishTime": "2023-03-04T11:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oowc2xkzC3D0gQDQ43uh5cvvXWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x8hqtqIrYfw"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-07T08:17:17Z",
+        "channelId": "UCunEmVK16NTRsg7QX-aIDKg",
+        "title": "지금까지 카메라에 포착된 스포츠의 가장 아름답고 존경스러운 장면들!",
+        "description": "지금까지 카메라에 포착된 스포츠의 가장 아름답고 존경스러운 장면들! 스포츠 경기에서의 치열한 경쟁과 더불어 때로는 우리는 매우 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x8hqtqIrYfw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x8hqtqIrYfw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x8hqtqIrYfw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "우와  TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-07T08:17:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hIT1Or6lPVFe-SmUobHbXBPKG0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6Qv2NqnIbgs"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-02T11:00:08Z",
+        "channelId": "UCr1PDAnKFC-WgxqyM9ehhlQ",
+        "title": "스포츠 전설적인 코미디 순간들 ㅋㅋ",
+        "description": "흔치 않은 스포츠 웃긴 순간들.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6Qv2NqnIbgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6Qv2NqnIbgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6Qv2NqnIbgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STROPS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-02T11:00:08Z"
       }
     }
   ]

@@ -1,862 +1,862 @@
 {
-    "kind": "youtube#searchListResponse",
-    "etag": "cxLgicXOmQu8G3gHY_J7ohYYKJI",
-    "nextPageToken": "CBkQAA",
-    "regionCode": "KR",
-    "pageInfo": {
-        "totalResults": 1000000,
-        "resultsPerPage": 25
+  "kind": "youtube#searchListResponse",
+  "etag": "felAeuqA43XCMw4hOH513WONywM",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9B2d3L4ekmv8GpCS2cfVKjXqgAo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8fhGEnsDuVw"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-12T11:36:01Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "&quot;MBC &#39;바이든 향해 비속어&#39; 정정보도 해야&quot; - [LIVE] MBC 뉴스데스크 2024년 01월 12일",
+        "description": "'바이든 향해 비속어' MBC 보도에 1심 법원 \"정정보도\" 판결‥MBC, 즉각 항소장 제출 / \"이선균 수사·보도는 인격 살인\"‥봉준호· ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8fhGEnsDuVw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8fhGEnsDuVw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8fhGEnsDuVw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-12T11:36:01Z"
+      }
     },
-    "items": [
-        {
-            "kind": "youtube#searchResult",
-            "etag": "a7aD3WveDIu4k-S0Fxs96PaMro0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "CyVuC_RhxQA"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-06T09:41:03Z",
-                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-                "title": "&quot;이삭줍기&quot; 비판 속 대구 전격 방문, &quot;정면 승부&quot;..세 불리는 &#39;이준석 신당&#39;-[핫이슈PLAY] MBC뉴스 2024년 1월 6일",
-                "description": "가칭 개혁신당 준비에 속도를 내고 있는 이준석 전 국민의힘 대표는, 국민의힘 최대 기반인 대구를 찾아 본격적인 당원 모집에 나섰 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/CyVuC_RhxQA/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/CyVuC_RhxQA/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/CyVuC_RhxQA/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MBCNEWS",
-                "liveBroadcastContent": "live",
-                "publishTime": "2024-01-06T09:41:03Z"
-            }
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bIAekK4kEyMSfblxzZDTRvRpI7w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-PEJZaCyggI"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-12T02:42:42Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "&#39;[오늘 이 뉴스] &quot;KBS에 수사내용 제공 경위 밝혀야&quot;..故 이선균 동료들의 &#39;분노&#39; (2024.01.12/MBC뉴스)",
+        "description": "문화예술인연대회의기자회견 #이선균 #경찰.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-PEJZaCyggI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-PEJZaCyggI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-PEJZaCyggI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "uwj78moRicTsOlgCVTx7EV1XN5s",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "_5IgMYILlB8"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T11:30:14Z",
-                "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-                "title": "[자막뉴스] &quot;남한 평정&quot; 움직이는 北 …한반도 &#39;위험 신호&#39; / YTN",
-                "description": "지난 2016년까지 개성공단 직원이 출퇴근하고, 생산제품이 오가던 경의선 도로입니다. 남북경협의 상징과도 같았던 이 경의선 길목에, ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/_5IgMYILlB8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/_5IgMYILlB8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/_5IgMYILlB8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": " YTN",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T11:30:14Z"
-            }
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-12T02:42:42Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ydVwVJ0TiP1frVo3dQCh_kw0Z5A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qBfOzGZfJqw"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-12T11:14:15Z",
+        "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
+        "title": "서태지, 29년 만에 ‘시대유감’ 뮤직비디오 공개 | 뉴스A",
+        "description": "서태지, 29년 만에 '시대유감' 뮤직비디오 공개 문화대통령으로 불렸던 가수 서태지. 부조리한 세상을 향한 노래 '시대유감'의 뮤직 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qBfOzGZfJqw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qBfOzGZfJqw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qBfOzGZfJqw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "fICp32GfKUje3-ErOF2sBUY-Pgg",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "9iu3M2qtYwQ"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T07:25:00Z",
-                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
-                "title": "[자막뉴스] 병장-부사관에 무슨 일이...발칵 뒤집힌 공군 / KBS 2024.01.05.",
-                "description": "공군교육사 소속 A병장은 지난해 9월 13일 통제구역에서 함께 근무하는 B부사관을 공문서 조작 등 보안 규정 위반으로 방첩대에 신고 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/9iu3M2qtYwQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/9iu3M2qtYwQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/9iu3M2qtYwQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "KBS News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T07:25:00Z"
-            }
+        "channelTitle": "채널A 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-12T11:14:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PWl0xjXVAE6aLafQC2DB7pBF-pI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "66pVcpIMI4c"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-11T07:57:50Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[뉴스 ‘꾹’] ‘이것은 착각인가 절도인가’..생수병 가져간 &#39;황당&#39; 옆집女 (2024.01.11/MBC뉴스)",
+        "description": "택배 #절도 #체포.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/66pVcpIMI4c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/66pVcpIMI4c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/66pVcpIMI4c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "ADh91xSEh4EvZHkylkD-aXf-jJY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "VzNRURj5Xb0"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T02:35:00Z",
-                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
-                "title": "[자막뉴스] &quot;운전자, 다 겁 먹었어요&quot; 보고도 못 믿을 고속도로 역대급 행패 / KBS 2024.01.05.",
-                "description": "고속도로를 달리던 화물차가 갑자기 방향을 틀더니 옆 차선을 막고 멈춥니다. 차에서 내린 기사가 도롯가로 뛰어가 큼지막한 돌덩이를 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/VzNRURj5Xb0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/VzNRURj5Xb0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/VzNRURj5Xb0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "KBS News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T02:35:00Z"
-            }
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-11T07:57:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xaeeT1f0I0htAcTe_iNrYNuZ-2U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PGfelM7xMTg"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-10T04:36:17Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "&quot;미국으로&quot; 목숨 건 중국인들…&#39;역대 최대 수준&#39; 폭증 (자막뉴스) / SBS",
+        "description": "남미 에콰도르의 수도, 키토의 국제공항입니다. 브로커들이 도착한 중국인들 얼굴을 한 명 한 명 사진과 맞춰본 뒤에 한 데 모아서 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PGfelM7xMTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PGfelM7xMTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PGfelM7xMTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "r-lOcYuuSt6DPRt95QCL-PvmVQA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "X1MjyLoZw8g"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T11:11:14Z",
-                "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
-                "title": "北 200발 포격 도발에…軍, 400발로 맞대응 | 뉴스A",
-                "description": "北 200발 포격 도발에…軍, 400발로 맞대응 뉴스에이 시작합니다. 저는 동정민입니다. 새해 시작부터 북한이 도발이 이뤄졌습니다.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/X1MjyLoZw8g/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/X1MjyLoZw8g/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/X1MjyLoZw8g/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "채널A 뉴스",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T11:11:14Z"
-            }
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-10T04:36:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7ELB_jdxNvuoNMvi4CoM3mDYGQk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8bxTZkoz-hA"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-12T06:30:05Z",
+        "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+        "title": "가격 급발진 원인 &quot;이제 시작&quot;…&#39;국민 과일&#39; 사라질 위기에 #뉴스다 / JTBC News",
+        "description": "0:00 '토마토 너마저' 사기도 팔기도 버겁다…지난해 이상기온 여파 (1.11 뉴스룸) 1:55 \"먹고 싶어도 참아야\" 금값 된 제철과일…",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8bxTZkoz-hA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8bxTZkoz-hA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8bxTZkoz-hA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "he8cr5ISKyZKZ81ltkF5pPZ5eI4",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "HTzDI-pknBQ"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T06:07:25Z",
-                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-                "title": "[오늘 이 뉴스] &quot;서울 이송 특혜시비? 유치해&quot;..다른 목소리 낸 홍준표 (2024.01.05/MBC뉴스)",
-                "description": "이재명전원 #홍준표대구시장 #국민의힘부산시당.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/HTzDI-pknBQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/HTzDI-pknBQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/HTzDI-pknBQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MBCNEWS",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T06:07:25Z"
-            }
+        "channelTitle": "JTBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-12T06:30:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mVRNEeYHNmZIQXpzabhAbnPc_w4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FJfwehhzIhw"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-11T18:19:59Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "[LIVE] 대한민국 24시간 뉴스채널 YTN",
+        "description": "진실을 전하는, 진심을 다하는 24시간 뉴스 채널 YTN YTN 공식채널을 지금 바로 구독하세요. ▷ YTN 유튜브 채널 구독 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FJfwehhzIhw/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FJfwehhzIhw/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FJfwehhzIhw/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "3E6BzLvXS_9HvX8Il0EsaSXAOkc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "_98KRZwNCUs"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T12:36:20Z",
-                "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-                "title": "우크라 때린 &#39;북한 미사일&#39;…&quot;한반도가 걱정된다&quot; / SBS 8뉴스",
-                "description": "〈앵커〉 북한이 러시아에 탄도미사일 수십 발을 제공했다고, 미국이 밝혔습니다. 이 미사일은 이미 지난해 말부터 우크라이나 공격에 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/_98KRZwNCUs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/_98KRZwNCUs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/_98KRZwNCUs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SBS 뉴스",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T12:36:20Z"
-            }
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "live",
+        "publishTime": "2022-07-11T18:19:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HgZUWBQJlsKt3QSBAvsYvjYzYK8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UWQ7Jh4PTWY"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-11T10:27:29Z",
+        "channelId": "UCIIpmDPVk7nzNHEUSHmvkUg",
+        "title": "GP 동시 파괴했는데…신원식 “북, 윗편만 부순 듯” | 뉴스TOP 10",
+        "description": "GP 동시 파괴했는데…신원식 “북, 윗편만 부순 듯” □ 방송 : 채널A 뉴스 TOP10 (17시 20분~19시) □ 방송일 : 2024년 1월 11일 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UWQ7Jh4PTWY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UWQ7Jh4PTWY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UWQ7Jh4PTWY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "XikXHCnn36CEKlodwRzImsx6vUQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "nvpyU5oeG7A"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T03:30:14Z",
-                "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-                "title": "[자막뉴스] &#39;미성년 성착취&#39; 실명 공개...전세계 뒤집어 놓은 &#39;살생부&#39; / YTN",
-                "description": "엡스타인은 미국 각계 유력인사들과 폭넓은 교류를 하면서 버진아일랜드의 별장과 뉴욕 자택에서 미성년자들에게 성접대를 하도록 한 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/nvpyU5oeG7A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/nvpyU5oeG7A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/nvpyU5oeG7A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": " YTN",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T03:30:14Z"
-            }
+        "channelTitle": "채널A 뉴스TOP10",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-11T10:27:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WWfwpuiL4JjFj4xgkUrmVFKA0JI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Vrj8v-a7jFU"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-11T00:02:30Z",
+        "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+        "title": "벌써부터 민심 &#39;들썩들썩&#39;…뒷감당 가능할까 #뉴스다 / JTBC News",
+        "description": "0:00 '확 풀리는' 재건축·재개발 규제…안전진단 건너뛰고 노후 요건 완화 (1.10 뉴스룸) 2:22 건설경기 심폐소생 나선 정부…",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Vrj8v-a7jFU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Vrj8v-a7jFU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Vrj8v-a7jFU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "el3DaBMZ7Xzg-gNPqx64JKTXOnA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "yiDrbXdW9q8"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-04T11:06:32Z",
-                "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
-                "title": "인류 첫 테트리스 끝판 정복…13세 美 소년 | 뉴스A",
-                "description": "인류 첫 테트리스 끝판 정복…13세 美 소년 추억의 게임 테트리스입니다. 입문은 쉽지만 고수가 되긴 어렵고, 끝판까지 깬 사람은 단 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/yiDrbXdW9q8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/yiDrbXdW9q8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/yiDrbXdW9q8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "채널A 뉴스",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-04T11:06:32Z"
-            }
+        "channelTitle": "JTBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-11T00:02:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lBeDR3NP2zhI81gcfbo8a3jIJA0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "05Nyi2vwUDc"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-09T23:00:00Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "[자막뉴스] 속출하는 환자들...日 지진 생존자들 사이 ’비명‘ / YTN",
+        "description": "규모 7.6의 지진이 강타한 이시카와현에 폭설과 강추위까지 덮치며 주민들과 피난민들의 생활 환경은 더욱 가혹해지고 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/05Nyi2vwUDc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/05Nyi2vwUDc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/05Nyi2vwUDc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "55TxgBgEw3N-yV9-jVMrSMeZaJU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "FJfwehhzIhw"
-            },
-            "snippet": {
-                "publishedAt": "2022-07-11T18:19:59Z",
-                "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-                "title": "[LIVE] 대한민국 24시간 뉴스채널 YTN",
-                "description": "진실을 전하는, 진심을 다하는 24시간 뉴스 채널 YTN YTN 공식채널을 지금 바로 구독하세요. ▷ YTN 유튜브 채널 구독 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/FJfwehhzIhw/default_live.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/FJfwehhzIhw/mqdefault_live.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/FJfwehhzIhw/hqdefault_live.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": " YTN",
-                "liveBroadcastContent": "live",
-                "publishTime": "2022-07-11T18:19:59Z"
-            }
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-09T23:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S9mYmi4nXQopaKHIkXbIn8mvEgo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "fOTI1p53O4A"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-11T06:27:51Z",
+        "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
+        "title": "[자막뉴스] &quot;그 호스에서 나온 게 경유라고?&quot;..아니 왜?&quot; 난리난 창원 주유소 (2024.01.11/MBC뉴스)",
+        "description": "혼유사고 #진해구청 #주유소.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOTI1p53O4A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOTI1p53O4A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOTI1p53O4A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "YVhRryYE6E8Qucc9ZhYlxEdeV0c",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "6bmop4yGnu8"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-04T10:11:17Z",
-                "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
-                "title": "문병호 전 국회의원·지역 당협위원장 등 속속 이준석 신당으로 [MBN 뉴스7]",
-                "description": "【 앵커멘트 】 어제 허은아 의원이 국민의힘을 탈당해 이준석 전 국민의힘 대표의 신당에 참여하기로 했죠. 내일은 국민의힘 지역 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/6bmop4yGnu8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/6bmop4yGnu8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/6bmop4yGnu8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MBN News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-04T10:11:17Z"
-            }
+        "channelTitle": "MBCNEWS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-11T06:27:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PrkFoy4rwIFjOI_9nO0XAT9_0FE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AB4-74mcL1I"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-10T01:50:54Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "&quot;LK-99, 초전도체 맞다&quot;...공개 발표한 내용 [지금이뉴스] / YTN",
+        "description": "상온·상압 초전도체 'LK-99'를 만들었다고 주장하는 퀀텀에너지연구소의 이석배 대표가 \"개발 물질은 초전도체가 맞다\"고 밝혔습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AB4-74mcL1I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AB4-74mcL1I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AB4-74mcL1I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Zn1wEmZ2xtW0xAEA8Vkx5mq6OTk",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "S_6affr8TZs"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T02:45:02Z",
-                "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-                "title": "&quot;곧바로 수술 준비했지만&quot;…결국 목소리 낸 부산 의사들 #뉴스다 / JTBC News",
-                "description": "0:00 이재명 집도의 \"왼쪽 목빗근 위 1.4㎝ 자상…순조롭게 회복 중\" (1.4 뉴스룸) 2:02 '이재명 응급조치' 부산대병원 의사 \"서울대병원 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/S_6affr8TZs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/S_6affr8TZs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/S_6affr8TZs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "JTBC News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T02:45:02Z"
-            }
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-10T01:50:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Nm-8fS4rW_7vsaWSnzksjl6GiCQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OMC7WifNRG4"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-10T01:32:44Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "[자막뉴스] &quot;정말 정말 피눈물 나요&quot;…김포 신축 아파트 입주 예정자들 &#39;날벼락&#39; / KBS 2024.01.10.",
+        "description": "경기 김포시에 건축 중인 399세대 규모의 아파트 단지입니다. 이번 주 금요일부터 입주가 시작될 예정이었지만, 사용 승인 허가를 받지 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OMC7WifNRG4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OMC7WifNRG4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OMC7WifNRG4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "177SOTjCWPzMtnwxlKyFY7X-jSU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "AIGAVqsr_lg"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T08:29:23Z",
-                "channelId": "UCj3_t5p4L4aFsvdW3uHjnnw",
-                "title": "[톺뉴스] 생사를 가르는 90초…항공기 비상 탈출 때 짐은? #shorts",
-                "description": "(서울=연합뉴스) 지난 2일 일본 도쿄 하네다공항에서 항공기 2대가 충돌한 후 화재가 발생했습니다. 불길에 휩싸인 항공기에서 승객과 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/AIGAVqsr_lg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/AIGAVqsr_lg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/AIGAVqsr_lg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "연합뉴스 Yonhapnews",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T08:29:23Z"
-            }
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-10T01:32:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TUOtKNfihVNRXflGWD68CerqKh8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "POVOMUX48Dw"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-10T06:27:50Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "&#39;그 동안 뭘 마신 건가&#39;...1ℓ  생수 속에서 나온 것 [지금이뉴스] / YTN",
+        "description": "시중에 판매되는 1리터 페트병 생수 안에 눈에 보이지 않는 나노 플라스틱 조각이 평균 24만 개 들어 있다는 연구 결과가 나왔습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/POVOMUX48Dw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/POVOMUX48Dw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/POVOMUX48Dw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "enbdxEpeL641P6tnENrIZLa_vvM",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "3-4ySY6pZwE"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T10:19:03Z",
-                "channelId": "UCIIpmDPVk7nzNHEUSHmvkUg",
-                "title": "한동훈, ‘빨간 운동화’ 선물 받고 뛴다 | 뉴스TOP 10",
-                "description": "한동훈, '빨간 운동화' 선물 받고 뛴다 □ 방송 : 채널A 뉴스 TOP10 (17시 20분~19시) □ 방송일 : 2023년 1월 5일 (금요일) □ 진행 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/3-4ySY6pZwE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/3-4ySY6pZwE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/3-4ySY6pZwE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "채널A 뉴스TOP10",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T10:19:03Z"
-            }
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-10T06:27:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xG99H8zy8c4JBaigBYrdC9l-_d0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9uSyhdNzn2s"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-12T04:13:50Z",
+        "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+        "title": "미·영, 예멘 후티 반군 공습 .. &#39;2만3천명 사망&#39; 가자전쟁 확대 우려 (이슈라이브) / SBS",
+        "description": "팔레스타인 무장정파 하마스의 이스라엘 기습 공격으로 시작된 전쟁이 현지시간으로 14일 100일째를 맞습니다. 가자지구에서만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9uSyhdNzn2s/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9uSyhdNzn2s/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9uSyhdNzn2s/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "NlXLjrpRe0qSy8buc_HBnBs5ZAQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "r4UahyM6OdE"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-04T02:35:00Z",
-                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
-                "title": "[자막뉴스] 일본 지도 바꿔야 하나...상상초월한 사진 한 장 / KBS 2024.01.04.",
-                "description": "평화로워 보이는 이시카와현 스즈시의 위성사진입니다. 한순간의 강진은 바닷가 마을 지도를 바꿔버렸습니다. 가장 많은 피해자를 낸 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/r4UahyM6OdE/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/r4UahyM6OdE/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/r4UahyM6OdE/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "KBS News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-04T02:35:00Z"
-            }
+        "channelTitle": "SBS 뉴스",
+        "liveBroadcastContent": "live",
+        "publishTime": "2024-01-12T04:13:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qHby8M-reaEGoDuE8y9dpITsANU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s8_JTNX5n-I"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-10T23:54:07Z",
+        "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
+        "title": "[풀영상] 뉴스광장 : “30년 넘은 아파트 안전진단 없이 재건축” - 2024년 1월 11일(목) / KBS",
+        "description": "2024년 1월 11일(목) 주요뉴스] · “30년 넘은 아파트 안전진단 없이 재건축” · 이낙연 오늘 '탈당' 예고…'제3세력' 최대 변수 · 미 증권위, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s8_JTNX5n-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s8_JTNX5n-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s8_JTNX5n-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "sOg9AXKsiby6PXkZ1Hh4Q1gSCcc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Bk2EWdE2GSY"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-05T04:30:03Z",
-                "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-                "title": "&quot;지금은 때가 아냐&quot; 국민연금 책임자들이 &#39;뒷짐&#39; 진 속사정 #뉴스다 / JTBC News",
-                "description": "0:00 국민연금 수급자 2명 중 1명 \"월 40만원도 안 돼요\" (1.4 뉴스룸) 2:03 \"국민연금 내는 돈 13%나 15%로 올려야\" 개혁안 보고 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Bk2EWdE2GSY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Bk2EWdE2GSY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Bk2EWdE2GSY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "JTBC News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-05T04:30:03Z"
-            }
+        "channelTitle": "KBS News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-10T23:54:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OZo_E9lQ0i745DyovRbvtd58HbM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aS6M7Mhm3g4"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-04T02:26:38Z",
+        "channelId": "UCj3_t5p4L4aFsvdW3uHjnnw",
+        "title": "강풍 이기지 못하고 &#39;철퍼덕&#39;…태풍에 날아간 여성 #shorts",
+        "description": "제9호 태풍 '사올라'가 홍콩에 상륙하며 한 여성이 강풍으로 넘어지는 사고가 발생했습니다. 제작 전석우 ◇ 연합뉴스 유튜브→ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aS6M7Mhm3g4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aS6M7Mhm3g4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aS6M7Mhm3g4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "VU90hk9kLBVw_Rg4VgJolaL7X1Q",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "1Pi9wG9pg_U"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-04T04:54:15Z",
-                "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-                "title": "[자막뉴스] &quot;선생님 안 합니다&quot;...인원 대거 미달난 교대 상황 / YTN",
-                "description": "올해 대학입시에서 전국 교대 10곳의 수시 미충원 인원은 지난해 492명에서 올해 738명으로 늘었습니다. 일반대학 초등교육과까지 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1Pi9wG9pg_U/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1Pi9wG9pg_U/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1Pi9wG9pg_U/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": " YTN",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-04T04:54:15Z"
-            }
+        "channelTitle": "연합뉴스 Yonhapnews",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-04T02:26:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "64NGpouCHShZ3DfHOdzuZgeVvS0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OIg_ZDVtSTU"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-09T12:33:02Z",
+        "channelId": "UCG9aFJTZ-lMCHAiO1KJsirg",
+        "title": "[자막뉴스] 길 가는 여성 어깨 &#39;퍽&#39;치고 도주…＂뼈 골절돼 잠도 못 자요＂ | 이슈픽",
+        "description": "여성 보행자에게 다가가 고의로 어깨를 강하게 쳐서 넘어뜨리는 범죄가 발생해 경찰이 수사에 나섰습니다. 피해 여성은 엉덩이뼈가 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OIg_ZDVtSTU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OIg_ZDVtSTU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OIg_ZDVtSTU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "R728xpRV9gumAahkv2_SckzHu3Y",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ECXeouTEjus"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-03T23:16:25Z",
-                "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-                "title": "&quot;퇴사까지 고민했다&quot;…분노 부른 구내식당 메뉴 / SBS / 뉴스딱",
-                "description": "부실한 회사 구내식당 메뉴 때문에 퇴사까지 고민한다는 한 직장인의 글이 누리꾼들의 시선을 끌고 있습니다. 3일 한 온라인 커뮤니티 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ECXeouTEjus/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ECXeouTEjus/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ECXeouTEjus/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "SBS 뉴스",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-03T23:16:25Z"
-            }
+        "channelTitle": "MBN News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-09T12:33:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kKO2E5pN8TqC2zqxgU8nZT4tHfA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w9uJg68CV4g"
+      },
+      "snippet": {
+        "publishedAt": "2023-12-14T14:59:07Z",
+        "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+        "title": "Watch Sky News Live",
+        "description": "Watch Sky News: Lord David Cameron has not ruled out the possibility of further strikes against Houthi rebels in Yemen, arguing ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w9uJg68CV4g/default_live.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w9uJg68CV4g/mqdefault_live.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w9uJg68CV4g/hqdefault_live.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "AKldQuC3mTgbzEXHs5GyvD9HGCE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "PcnQzsxanLA"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-04T02:10:27Z",
-                "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
-                "title": "&quot;이거 실화? 엄마 빨리 이쪽으로 오라고&quot;…지진 후 산사태 실시간 목격한 순간｜지금 이 장면",
-                "description": "일본 노토지역 지진 이후 지반이 약화되면서 산사태 등 피해도 이어지고 있습니다. 일본의 한 주민이 산사태가 일어나던 당시를 직접 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/PcnQzsxanLA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/PcnQzsxanLA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/PcnQzsxanLA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "JTBC News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-04T02:10:27Z"
-            }
+        "channelTitle": "Sky News",
+        "liveBroadcastContent": "live",
+        "publishTime": "2023-12-14T14:59:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sp5UG7wptkKghLZ1q73caTQ2Kqg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HP-ufyAvqGw"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-01T01:16:29Z",
+        "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+        "title": "[현장의재구성] 경계경보 울린 서울 #shorts / 연합뉴스TV (YonhapnewsTV)",
+        "description": "연합뉴스TV 두번째 채널 '연유티' 구독하기 https://bit.ly/3yZBQfA ▣ 연합뉴스TV 유튜브 채널 구독 https://goo.gl/VuCJMi ▣ 대한민국 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HP-ufyAvqGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HP-ufyAvqGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HP-ufyAvqGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Y4ZBK1eZh1mz11JycHJXZdZnFAQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "WHMs-RAoF3A"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-04T01:30:11Z",
-                "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
-                "title": "[자막뉴스] &quot;잘못 본 줄 알았어요&quot;...지하철 여성 승객 앞에서 &#39;경악&#39; / YTN",
-                "description": "다른 승객은 찾아보기 어려운 지하철 안, 검은색 외투와 모자, 그리고 마스크까지 착용한 남성이 건너편에 앉아 있습니다. 가만히 앉아 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/WHMs-RAoF3A/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/WHMs-RAoF3A/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/WHMs-RAoF3A/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": " YTN",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-04T01:30:11Z"
-            }
+        "channelTitle": "연합뉴스TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-01T01:16:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3dWOuBqPmtJGBrrMccmgcEad6dQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cn9UwnIBbqM"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-10T09:22:49Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "[자막뉴스] 北 김정은 &quot;전쟁 피할 생각 전혀 없다&quot; 위협...한반도 긴장 고조 / YTN",
+        "description": "군수공장을 찾은 김정은 위원장. 단거리 탄도미사일을 기습적으로 발사할 수 있는 이동식 발사대가 공장에 가득 들어차 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cn9UwnIBbqM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cn9UwnIBbqM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cn9UwnIBbqM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "pG49zp08b8R_S5G4VwyO05UbdPA",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ZjPlyuXdKKQ"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-03T08:09:37Z",
-                "channelId": "UCF4Wxdo3inmxP-Y59wXDsFw",
-                "title": "[자막뉴스] &quot;아빠, 집엔 오지 마&quot; 하던 딸..숨진 뒤 드러난 &#39;사위 정체&#39; (MBC뉴스)",
-                "description": "사위 #불법영상물 #유서.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ZjPlyuXdKKQ/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ZjPlyuXdKKQ/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ZjPlyuXdKKQ/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "MBCNEWS",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-03T08:09:37Z"
-            }
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-10T09:22:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JsAeCTKumyQfm-PM6urKzqWqgWo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FS0SkKiapRU"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-10T00:45:00Z",
+        "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+        "title": "[자막뉴스] 20년간 이 상태였다니…하루아침에 &#39;날벼락&#39; 분통 터진 입주민들 / JTBC News",
+        "description": "이런 날씨에 서울 도심의 한 오피스텔에선 300세대 가까운 주민들이 며칠째 난방 없이 지내고 있습니다. 중앙난방기가 고장난 건데 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FS0SkKiapRU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FS0SkKiapRU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FS0SkKiapRU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "OMIspAf44X8AkiyhT63NEcKYGCw",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "dmfqAYzpxc4"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-03T22:30:08Z",
-                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
-                "title": "[자막뉴스] 실종자 드디어 찾았는데 텐트 안 온기에 불안한 직감 / KBS 2024.01.04.",
-                "description": "새만금방조제 도로 옆 한 휴게소. 전망이 좋아 캠핑족이 자주 찾는 곳입니다. 어제 오후 네 시쯤, 휴게소 부근 텐트에서 50대 남녀가 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dmfqAYzpxc4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dmfqAYzpxc4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dmfqAYzpxc4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "KBS News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-03T22:30:08Z"
-            }
+        "channelTitle": "JTBC News",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-10T00:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dFtKFP0Ty2xdMMy7QuZc8Ac_1Wg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZrKQav1Xhoo"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-09T22:26:43Z",
+        "channelId": "UChlgI3UHCOnwUGzWzbJ3H5w",
+        "title": "김정은 &quot;대한민국은 주적...전쟁 피할 생각 없다&quot; [지금이뉴스] / YTN",
+        "description": "북한 김정은 국무위원장이 대한민국을 주적으로 단정하며 전쟁을 피할 생각이 전혀 없다고 말했습니다. 김 위원장은 그제(8일)부터 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZrKQav1Xhoo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZrKQav1Xhoo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZrKQav1Xhoo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "uAFKSJXdPyOz8SFUhWIWRslcIds",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "Ef_jOZbtYAg"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-06T02:34:35Z",
-                "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
-                "title": "[속보] 고양·양주 다방 살인 피의자 강원도 강릉서 검거 / 연합뉴스TV (YonhapnewsTV)",
-                "description": "경기 고양시와 양주시에서 야간에 홀로 다방 영업을 하던 60대 여성 2명을 살해한 혐의를 받는 이모씨가 강원도 강릉에서 검거 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/Ef_jOZbtYAg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/Ef_jOZbtYAg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/Ef_jOZbtYAg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "연합뉴스TV",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-06T02:34:35Z"
-            }
+        "channelTitle": " YTN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-09T22:26:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3PB6OF0OrRbPpHXI2NWFj2etiWM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "GW9qbnZVCH8"
+      },
+      "snippet": {
+        "publishedAt": "2024-01-09T11:08:43Z",
+        "channelId": "UCfq4V1DAuaojnr2ryvWNysw",
+        "title": "판사 폭행의 대가…입마개에 손도 꽁꽁 | 뉴스A",
+        "description": "판사 폭행의 대가…입마개에 손도 꽁꽁 미국의 한 법정에 피고인이 이런 모습으로 나타났습니다. 닷새 전 판결이 마음에 들지 않는다며 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GW9qbnZVCH8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GW9qbnZVCH8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GW9qbnZVCH8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "uhHSZ9_HNjFgxb3thMC0pU5o3Mc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "gF8-_2uz640"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-06T10:20:31Z",
-                "channelId": "UCIIpmDPVk7nzNHEUSHmvkUg",
-                "title": "한자리 모이는 ‘제3지대’…빅텐트 실현되나 | 뉴스TOP 10",
-                "description": "한자리 모이는 '제3지대'…빅텐트 실현되나 '이준석 신당' 온라인 당원 3만 명 이상 대구서 메가폰 잡은 이준석 \"온라인 당원 4만 육박\" ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/gF8-_2uz640/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/gF8-_2uz640/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/gF8-_2uz640/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "채널A 뉴스TOP10",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-06T10:20:31Z"
-            }
+        "channelTitle": "채널A 뉴스",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-01-09T11:08:43Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S68eEAB3tp-7GeoC-tCou6Mtq4I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7FHbBXtKtzo"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-30T07:24:01Z",
+        "channelId": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+        "title": "[현장의재구성] 물 마시다 체할 뻔 #Shorts / 연합뉴스TV (YonhapnewsTV)",
+        "description": "연합뉴스TV 유튜브 채널 구독 https://goo.gl/VuCJMi ▣ 대한민국 뉴스의 시작 연합뉴스TV / Yonhap News TV ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7FHbBXtKtzo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7FHbBXtKtzo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7FHbBXtKtzo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
         },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "cE-PBy7g5e5g6XNVhLWapvCX2LE",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "pXaVhXxDMIk"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-04T00:35:00Z",
-                "channelId": "UCcQTRi69dsVYHN3exePtZ1A",
-                "title": "[자막뉴스] 라오스서 &#39;버기카&#39; 탔던 한국인 관광객의 비극 / KBS 2024.01.04.",
-                "description": "라오스의 유명 관광지 방비엥의 한 비포장 도로. 일명 버기카로 불리는 사륜구동 차량들이 멈춰서 있고, 한 대는 도로 옆 풀숲에 쓰러져 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/pXaVhXxDMIk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/pXaVhXxDMIk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/pXaVhXxDMIk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "KBS News",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-04T00:35:00Z"
-            }
-        }
-    ]
+        "channelTitle": "연합뉴스TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-30T07:24:01Z"
+      }
+    }
+  ]
 }

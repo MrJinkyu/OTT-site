@@ -1,7 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 import { useQuery } from "react-query";
 import styles from "./Videos.module.css";
-import VideoCard from "../../components/VideoCard/VideoCard";
 import { useYoutubeApi } from "../../context/YoutubeApiContext";
 import { useFilter } from "../../context/FilterContext";
 import PlayBanner from "../../components/PlayBanner/PlayBanner";
@@ -14,7 +13,9 @@ export default function Videos() {
     isLoading,
     error,
     data: videos,
-  } = useQuery(["videos", filter], async () => youtube.search(filter));
+  } = useQuery(["videos", filter], async () => youtube.search(filter), {
+    staleTime: 1000 * 60 * 5,
+  });
 
   return (
     <section className={styles.container}>
