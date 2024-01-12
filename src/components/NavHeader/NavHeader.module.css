@@ -16,6 +16,11 @@
 }
 
 .title {
+  color: var(--color-white);
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.point {
   color: var(--color-accent);
 }
 

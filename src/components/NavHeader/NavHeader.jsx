@@ -20,7 +20,11 @@ export default function NavHeader() {
           onChangeId(undefined);
         }}
       >
-        <h1 className={styles.title}>OverTheTop</h1>
+        <h1 className={styles.title}>
+          <span className={styles.point}>O</span>ver
+          <span className={styles.point}>T</span>he
+          <span className={styles.point}>T</span>op
+        </h1>
       </Link>
       <nav className={styles.menu}>
         <FilterButton value="movie">
