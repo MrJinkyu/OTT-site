@@ -32,7 +32,7 @@ export default function PlayBanner() {
           <iframe
             id="player"
             type="text/html"
-            src={`http://www.youtube.com/embed/${selectId}?autoplay=1&mute=1&controls=0&loop=1&playlist=${selectId}`}
+            src={`https://www.youtube.com/embed/${selectId}?autoplay=1&mute=1&controls=0&loop=1&playlist=${selectId}`}
             style={{
               border: "none",
               width: "100%",

@@ -9,13 +9,16 @@ import FilterButton from "../FilterButton/FilterButton";
 import { useFilter } from "../../context/FilterContext";
 
 export default function NavHeader() {
-  const { onFilterChange } = useFilter();
+  const { onFilterChange, onChangeId } = useFilter();
   return (
     <header className={styles.header}>
       <Link
         to="/"
         className={styles.logo}
-        onClick={() => onFilterChange("movie")}
+        onClick={() => {
+          onFilterChange("movie");
+          onChangeId(undefined);
+        }}
       >
         <h1 className={styles.title}>OverTheTop</h1>
       </Link>

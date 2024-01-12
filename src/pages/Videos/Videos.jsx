@@ -1,6 +1,5 @@
 import React from "react";
 import { useQuery } from "react-query";
-import styles from "./Videos.module.css";
 import { useYoutubeApi } from "../../context/YoutubeApiContext";
 import { useFilter } from "../../context/FilterContext";
 import PlayBanner from "../../components/PlayBanner/PlayBanner";
@@ -18,7 +17,7 @@ export default function Videos() {
   });
 
   return (
-    <section className={styles.container}>
+    <section style={{ width: "100%", height: "100vh" }}>
       <PlayBanner filter={filter} />
       {videos && <VIdeoSlider videos={videos} />}
       {isLoading && <p>Loading...</p>}

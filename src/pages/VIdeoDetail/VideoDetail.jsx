@@ -15,7 +15,7 @@ export default function VideoDetail() {
       <iframe
         id="player"
         type="text/html"
-        src={`http://www.youtube.com/embed/${selectId}`}
+        src={`https://www.youtube.com/embed/${selectId}`}
         style={{
           border: "none",
           width: "80%",
