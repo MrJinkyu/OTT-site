@@ -3,14 +3,11 @@
   margin: 0;
   padding-left: 240px;
   width: 100%;
-  height: 35%;
+  height: 40%;
   background-color: var(--color-bg-body);
 }
 .title {
-  width: 90%;
-  margin: 0 auto;
-  padding-left: 2rem;
-  padding-bottom: 1rem;
+  margin: 0 0 1rem 8rem;
 }
 .prevBtn,
 .nextBtn {
@@ -23,7 +20,7 @@
   justify-content: center;
   align-items: center;
   width: 1.5rem;
-  height: 200px;
+  height: 300px;
 }
 
 .btnIcon {

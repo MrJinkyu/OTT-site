@@ -17,15 +17,15 @@
   left: 0;
   width: 10%;
   height: 10%;
-  font-size: 1.8rem;
+  font-size: 1.4rem;
   display: flex;
   justify-content: center;
   align-items: center;
   color: var(--color-white);
-  background-color: var(--color-bg-body);
+  background-color: transparent;
   border: none;
   outline: none;
-  opacity: 0.2;
+  opacity: 0.5;
   transition: all 150ms ease-out;
 }
 
